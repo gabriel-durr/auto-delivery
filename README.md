@@ -12,7 +12,7 @@ Com este prompt você poderá adaptar o bot para o seu negócio ou para outros n
 
 ## Como executar?
 
-Para executar o bot, você precisará de uma conta no WhatsApp, do [Node.js](https://nodejs.org/en/) e [Docker](https://www.docker.com/products/docker-desktop/) instalados.
+Para executar o bot, você precisará de uma conta no WhatsApp, do [Node.js](https://nodejs.org/en/) e [Docker](https://www.docker.com/products/docker-desktop/) instalados
 
 Você irá precisar também de uma conta e API Key no [OpenAI](https://platform.openai.com/account/api-keys).
 
